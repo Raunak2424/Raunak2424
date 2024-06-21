@@ -1,6 +1,7 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--N0LnWdH_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/lugc0jzgnybwqa588x2v.png)](https://rishavchanda.io)
+![logo](https://github.com/Raunak2424/Raunak2424/blob/main/Banner.gif)
 <h1 align="center">Hi 👋, I'm Raunak Sharma</h1>
-<h3 align="center">A Frontend Developer from India</h3>
+<h3 align="center">A Computer Science Engineer from India</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raunak2424&label=Profile%20views&color=0e75b6&style=flat" alt="raunak2424" /> </p>
 
