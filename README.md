@@ -1,6 +1,6 @@
 <img src="https://github.com/Raunak2424/Raunak2424/blob/main/Banner.gif" width="1100" height="400">
 <h1 align="center">Hi 👋, I'm Raunak Sharma</h1>
-<h3 align="center">I'm a Computer Science Engineer who loves to bring ideas to life in the browser. I grew up in the early 2000's and fell in love with the internet. Therefore I am excited about designing and developing websites and web applications that are fast, responsive, and accessible to everyone.</h3>
+<h3 align="center">I'm a Computer Science Engineer who loves to bring ideas to life in the browser. I grew up in the early 2000's and fell in love with the internet. I am excited about designing and developing websites and web applications that are fast, responsive, and accessible to everyone.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="600" height="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raunak2424&label=Profile%20views&color=0e75b6&style=flat" alt="raunak2424" /> </p>
